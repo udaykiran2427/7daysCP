@@ -49,6 +49,9 @@
 - 🔗 **Basic Introduction and Definition:** [Hashing in Data Structures](https://www.youtube.com/watch?v=shs0KM3wKv8)  
 - 🔗 **In-Depth Guide:** [TakeUForward Hashing Guide](https://youtu.be/KEs5UyBJ39g?si=PJx-rkdcwJ2CskyQ)  
 - 🔗 **Script / Article:** [GFG - Hashing Explained](https://www.geeksforgeeks.org/hashing-data-structure/)
+- 🔗 **Detailed Explanation:**[Hashing - MIT_openCourseWare](https://youtu.be/Nu8YGneFCWE?si=TjZBWlWZlLCWxhV3)
+=======
+
 
 ---
 
@@ -76,6 +79,10 @@
 
 6. [Subarray Sum Equals K – LeetCode #560](https://leetcode.com/problems/subarray-sum-equals-k/)  
 7. [Group Anagrams – LeetCode #49](https://leetcode.com/problems/group-anagrams/)  
+
+8. [Longest Substring Without Repeating Characters – LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+9. [Hackerrank (Interview Preparation kit)](https://www.hackerrank.com/interview/interview-preparation-kit/dictionaries-hashmaps/challenges)
+=======
 8. [Longest Substring Without Repeating Characters – LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
 
 ### For In-Depth Practice
