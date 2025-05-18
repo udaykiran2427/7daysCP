@@ -16,7 +16,7 @@
     outline-offset: 2px;
   }
 </style>
-# 🧭 Day 5: Hashing
+# 🧭 Day 6: Hashing
 
 ## 📖 Definition
 **Hashing** is a process of converting a given key into an index using a hash function. This index determines where the corresponding value is stored in a hash table.
