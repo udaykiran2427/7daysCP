@@ -3,3 +3,4 @@
 - [Day 3 - Binary Search](day3.md)
 - [Day 4 - Prefix Sum](day4.md)
 - [Day 5 - Bit Manipulation](day5.md)
+- [Day 6 - Hashing](day6.md)
