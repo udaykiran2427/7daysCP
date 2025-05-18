@@ -1,22 +1,4 @@
-<style>
-  input[type="checkbox"] {
-    width: 18px;
-    height: 18px;
-    cursor: pointer;
-    transition: box-shadow 0.3s ease, background-color 0.3s ease;
-  }
 
-  input[type="checkbox"]:hover {
-    box-shadow: 0 0 5px 2px rgba(59, 130, 246, 0.6);
-    background-color: rgba(59, 130, 246, 0.1);
-  }
-
-  input[type="checkbox"]:focus-visible {
-    outline: 2px solid rgba(59, 130, 246, 0.8);
-    outline-offset: 2px;
-  }
-</style>
----
 
 # ✅ Day 5: Bit Manipulation
 
@@ -140,18 +122,3 @@ Join our [Discord Doubt Channel](https://discord.gg/D3jDzyAE) for Q\&A and suppo
 
 > 🧑‍💻 *contributed by [charanreddy-git](https://github.com/charanreddy-git/)*
 
----
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-    checkboxes.forEach((checkbox) => {
-      const isChecked = localStorage.getItem(checkbox.id) === "true";
-      checkbox.checked = isChecked;
-    });
-    checkboxes.forEach((checkbox) => {
-      checkbox.addEventListener("change", function () {
-        localStorage.setItem(checkbox.id, checkbox.checked);
-      });
-    });
-  });
-</script>
