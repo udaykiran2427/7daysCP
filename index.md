@@ -4,3 +4,4 @@
 - [Day 4 - Prefix Sum](day4.md)
 - [Day 5 - Bit Manipulation](day5.md)
 - [Day 6 - Hashing](day6.md)
+- [Day 7 - Resource Dump](day7.md)
