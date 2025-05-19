@@ -28,7 +28,7 @@ Just dumping a list of good resources. Use them whenever you're stuck or want to
 
 - [Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [TLE Eliminators CP Sheet](https://www.tle-eliminators.com/cp-sheet)
-- [Striver’s CP Sheet (Interview Style)](https://takeuforward.org/interview-experience/strivers-cp-sheet)
+- [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet)
 - [A2OJ Ladders (for CF rating-wise practice)](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
 - [CSES Problem Set](https://cses.fi/problemset/)
 
